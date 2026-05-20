@@ -57,6 +57,7 @@ app/
 4. Choose:
    - Language: Java
    - Minimum SDK: 21+
+   - Build Configuration Language: Groovy DSL (build.gradle)
 5. Click Finish
 
 ---
